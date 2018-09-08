@@ -1,4 +1,4 @@
-package com.deguzman.clarissehelaine.deguzmanclarissehelainelab2;
+package com.deguzman.clarissehelaine;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.deguzman.clarissehelaine.deguzmanclarissehelainelab2", appContext.getPackageName());
+        assertEquals("com.deguzman.clarissehelaine", appContext.getPackageName());
     }
 }

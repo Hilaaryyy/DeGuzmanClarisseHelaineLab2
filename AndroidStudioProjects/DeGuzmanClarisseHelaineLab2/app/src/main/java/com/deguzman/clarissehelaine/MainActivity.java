@@ -1,4 +1,4 @@
-package com.deguzman.clarissehelaine.deguzmanclarissehelainelab2;
+package com.deguzman.clarissehelaine;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

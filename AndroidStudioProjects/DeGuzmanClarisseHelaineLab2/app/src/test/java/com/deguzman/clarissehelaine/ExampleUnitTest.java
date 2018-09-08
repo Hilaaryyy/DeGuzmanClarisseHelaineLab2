@@ -1,4 +1,4 @@
-package com.deguzman.clarissehelaine.deguzmanclarissehelainelab2;
+package com.deguzman.clarissehelaine;
 
 import org.junit.Test;
 

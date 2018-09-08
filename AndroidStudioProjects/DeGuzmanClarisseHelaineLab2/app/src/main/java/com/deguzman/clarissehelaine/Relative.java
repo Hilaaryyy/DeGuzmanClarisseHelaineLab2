@@ -1,4 +1,4 @@
-package com.deguzman.clarissehelaine.deguzmanclarissehelainelab2;
+package com.deguzman.clarissehelaine;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -11,3 +11,4 @@ public class Relative extends AppCompatActivity {
         setContentView(R.layout.relative_layout);
     }
 }
+

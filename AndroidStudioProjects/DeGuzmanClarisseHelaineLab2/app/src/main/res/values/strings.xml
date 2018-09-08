@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DeGuzmanClarisseHelaineLab2</string>
+    <string name="Linear">Linear Layout</string>
+    <string name="Relative">Relative Layout</string>
+    <string name="Constraint">Constraint Layout</string>
 </resources>
